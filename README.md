@@ -35,7 +35,9 @@ This Project was built using the [Food.com Recipes and Interactions](https://www
   
 - Clone the repo
   
-        git clone https://github.com/mukeshjv/FRS
+        git lfs install --skip-smudge
+        
+        git clone https://github.com/mukesh-jv/FRS
 
 - Move to working directory
 
