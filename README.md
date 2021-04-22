@@ -22,7 +22,7 @@ This Project was built using the [Food.com Recipes and Interactions](https://www
     - Dockerfile *Dockerfile to build the starlette app*
     - static *static content to serve at the front-end*
     - templates *HTML files to serve at the front-end*
-  - mongo  *Mongodb database directory*
+  - mongodb  *Mongodb database directory*
   - docker-compose.yml  *docker-compose file to spin-up the multi-container application*
 
 ## Steps to launch the application
@@ -106,6 +106,8 @@ This Project was built using the [Food.com Recipes and Interactions](https://www
 
 - [Install Git LFS](https://git-lfs.github.com/)
   
+#### Open a terminal for the following steps
+
 - Clone the repo
   
         git lfs install --skip-smudge
