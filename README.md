@@ -80,7 +80,7 @@ This Project was built using the [Food.com Recipes and Interactions](https://www
      
      ![app](images/app.png)
      
-   *Note*: If you face any errors in this step, consider restarting Docker. Paste the following command in your terminal to restart docker:
+   *Note*: If you face any errors in this step, please consider restarting Docker or your machine and repeat the above step. Paste the following command in your terminal to restart docker:
 
       restart-service *docker*
       
@@ -146,3 +146,4 @@ This Project was built using the [Food.com Recipes and Interactions](https://www
       sudo docker-compose down
       
 *Note*: Images for the suggested recipes are fetched using the Google Search API. The currently used free version serves only 100 requests per day.
+
